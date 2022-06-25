@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 mv /tmp/betty /tmp/my_first_directory
-=======
-mv /tmp/betty /tmp/my_first_directory
-
->>>>>>> 1f20253b8bbc3c5bdc06868f26c36cb041a9ce31
