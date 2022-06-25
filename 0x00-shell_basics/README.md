@@ -1,1 +1,1 @@
-script that list more files
+Display current directory contents
