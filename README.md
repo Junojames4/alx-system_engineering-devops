@@ -1,1 +1,3 @@
-Task 1. What’s in there?
+Task 3. List long format' > README.md
+echo Task 3. List long format > README.md
+echo "Task 3. List long format
