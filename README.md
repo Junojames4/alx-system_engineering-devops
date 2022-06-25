@@ -1,1 +1,1 @@
-List all files including normal or hidden
+Task 12. File type
