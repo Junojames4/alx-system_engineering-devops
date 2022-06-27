@@ -1,1 +1,1 @@
-Task 19. File type: School
+script that displays a confused smiley "(Ôo)

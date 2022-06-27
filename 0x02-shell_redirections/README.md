@@ -1,1 +1,1 @@
-Task 1. Confused smiley
+1. Confused smiley
