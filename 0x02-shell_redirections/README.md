@@ -1,2 +1,1 @@
-Task 5. Id prefer the first ones actually > README.md
-echo Task 5.Id prefer the first ones actually
+Write a script that displays the third line of the file iacta
