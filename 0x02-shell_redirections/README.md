@@ -1,1 +1,1 @@
-Write a script that displays the third line of the file iacta
+Task 7. It is good file that cuts iron without making noise
