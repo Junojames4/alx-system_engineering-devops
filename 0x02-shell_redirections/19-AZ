@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 tr "A" "Z" | tr "c" "e"
-=======
-#!/bin/bash
-tr "A" "Z" | tr "c" "e"
->>>>>>> 65ebf521c16cad272a160717c2c18bd3c683a3b9
