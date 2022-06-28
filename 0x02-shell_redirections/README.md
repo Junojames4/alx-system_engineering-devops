@@ -1,1 +1,1 @@
-Task 8. Save current state directory
+Task 10. No more javascript
