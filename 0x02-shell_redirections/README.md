@@ -1,1 +1,1 @@
-17. I hate bins
+ Task 19. A to Z
