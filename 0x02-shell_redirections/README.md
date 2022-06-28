@@ -1,1 +1,1 @@
-Task 22. DJ Cut Killer
+23. Empty casks make the most noise
