@@ -1,1 +1,2 @@
-Task 16. The eggs of the brood need to be an odd number
+Task 17. Im an instant star. Just add water and stir > README.md
+echo Task 17. Im an instant star. Just add water and stir
